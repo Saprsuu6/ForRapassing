@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\coffe\Desktop\на персдачу\Nat Geo Wild\Nat Geo Wild\Main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nat Geo Wild.vcxproj -> C:\Users\coffe\Desktop\на персдачу\Nat Geo Wild\x64\Debug\Nat Geo Wild.exe
